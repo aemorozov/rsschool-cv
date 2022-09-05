@@ -4,7 +4,7 @@
 # Aleksei Morozov
 ## web developer
 
-********* 
+ 
 
 ## Contacts
 
@@ -19,7 +19,7 @@
 Location: **Yerevan, Armenia**  
 Native Russian, B1 English, Starter Armenian
 
-=========
+********* 
 
 ## Experience
 
@@ -77,7 +77,7 @@ Part-time work. Remote testing of Yandex products (Yandex.Drive, Yandex.Maps)
 * Working with Testpalm;
 * Working with Devtools.
 
-===
+********* 
 
 ## Education
 **ENGECON**
