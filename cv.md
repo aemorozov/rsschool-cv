@@ -1,4 +1,4 @@
-![Aleksei Morozov foto](https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png)
+![Aleksei Morozov foto](https://media-exp1.licdn.com/dms/image/C4E03AQEqmV2yyvByrw/profile-displayphoto-shrink_200_200/0/1651083032853?e=1668038400&v=beta&t=QZYYbr-wKs20YAgFcWM3AJCFbyG6edPpe3HVlkNPY28)
 
 
 # Aleksei Morozov
