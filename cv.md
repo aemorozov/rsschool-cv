@@ -1,11 +1,15 @@
 # Aleksei Morozov
 *web developer*
 
-[linkedin](https://www.linkedin.com/in/aleksei-morozov-944279239/);
-[aemorozov.ru](https://aemorozov.ru/);
-[GitHub](https://github.com/aemorozov/);
+[linkedin](https://www.linkedin.com/in/aleksei-morozov-944279239/)
+
+[aemorozov.ru](https://aemorozov.ru/)
+
+[GitHub](https://github.com/aemorozov/)
+
 
 Location: **Yerevan, Armenia**
+
 Native Russian, English B1, Starter Armenian
 
 ## Experience
@@ -13,7 +17,9 @@ Native Russian, English B1, Starter Armenian
 ### OmniCDEK
 **omnicdek.ru**
 July 2022 – until now
+
 Yerevan, Armenia
+
 * maintenance of the company's postamates
 * diagnosis and identification of problems that have arisen
 * mechanical replacement of equipment
@@ -22,7 +28,9 @@ Yerevan, Armenia
 ### Web Developer
 **Gonkopt.com**
 April 2022 – June 2022
+
 Yekaterinburg, Sverdlovsk, Russia
+
 Remote work
 * Frontend development (HTML, CSS, JavaScript) on gonkopt.com;
 * Bugs fixing on adaptive design (for all screen resolutions);
@@ -37,7 +45,9 @@ Remote work
 ### Software and hardware Engineer
 **Morozov A.E.**
 October 2015 - march 2022
+
 St Petersburg City, Russia
+
 * Live communication with customers;
 * Diagnostics, administration and recovery of Windows, Android, iOS;
 * Using Odin, SP Flash tool, TestDPC, ADB and other software;
@@ -47,7 +57,9 @@ St Petersburg City, Russia
 ### QA Assessor (manual testing)
 **Yandex**
 June 2020 - July 2020
+
 St Petersburg City, Russia
+
 Part-time work. Remote testing of Yandex products (Yandex.Drive, Yandex.Maps)
 * Manual testing of web, desktop and mobile applications by checklists;
 * Analysis of technical requirements and technical specifications;
@@ -59,7 +71,7 @@ Part-time work. Remote testing of Yandex products (Yandex.Drive, Yandex.Maps)
 
 ## Education
 **ENGECON**
-Management and economics at the motor transport enterprise. (September 2008 - June 2010)
+* Management and economics at the motor transport enterprise. (September 2008 - June 2010)
 
 **GEEK BRAINS online university (GB.ru)**
 * JavaScript (2021-2022)
