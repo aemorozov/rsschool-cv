@@ -4,8 +4,6 @@
 # Aleksei Morozov
 ## web developer
 
- 
-
 ## Contacts
 
 **Phone:** +374 44 07-03-39  
@@ -16,7 +14,7 @@
 **GitHub:** [aemorozov](https://github.com/aemorozov/)  
 
 
-Location: **Yerevan, Armenia**  
+**Location:** Yerevan, Armenia  
 Native Russian, B1 English, Starter Armenian
 
 ********* 
