@@ -2,21 +2,24 @@
 
 
 # Aleksei Morozov
-*web developer*
+## *web developer*
 
 ===
 
 ## Contacts
 
-[linkedin](https://www.linkedin.com/in/aleksei-morozov-944279239/)  
-[aemorozov.ru](https://aemorozov.ru/)  
-[GitHub](https://github.com/aemorozov/)  
+**Phone:** +374 44 07-03-39  
+**E-mail:** leafspb@gmail.com  
+**Telegram:** @aleskejmorozov  
+**Profile:** [linkedin](https://www.linkedin.com/in/aleksei-morozov-944279239/)  
+**Web:** [aemorozov.ru](https://aemorozov.ru/)  
+**GitHub:** [aemorozov](https://github.com/aemorozov/)  
 
 
 Location: **Yerevan, Armenia**  
 Native Russian, B1 English, Starter Armenian
 
-===
+=========
 
 ## Experience
 
