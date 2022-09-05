@@ -2,9 +2,9 @@
 
 
 # Aleksei Morozov
-## *web developer*
+## web developer
 
-===
+********* 
 
 ## Contacts
 
