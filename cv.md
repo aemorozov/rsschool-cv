@@ -21,6 +21,18 @@ Native Russian, B1 English, Starter Armenian
 
 ********* 
 
+## About me
+
+I have worked with customers for more than 6 years and have excellent problem solving skills.  
+My main stack:
+* SQL (MySQL, Oracle PL/SQL) - work with table construction, pseudo columns, operators, expressions, conditions, functions, subqueries
+* Linux (Ubuntu) – basic commands: create, delete, transfer, copy, find, zip
+* JavaScript (ES6) - functions, arrays, objects, OOP, TypeScript basics
+* Quality Assurance & Manual Testing - functional and non-functional testing, test cases, checklists, bug reports. Devtools.
+* HTML5 & CSS3 - I can sort out someone else's code, remove or add even complex elements without harm to the layout, make any design adaptive. I can make it from scratch or seriously change any layout according to the customer's wishes.
+
+********* 
+
 ## Experience
 
 ### OmniCDEK
@@ -80,8 +92,6 @@ Part-time work. Remote testing of Yandex products (Yandex.Drive, Yandex.Maps)
 ********* 
 
 ## Education
-**ENGECON**
-* Management and economics at the motor transport enterprise. (September 2008 - June 2010)
 
 **GEEK BRAINS online university (GB.ru)**
 * JavaScript (2021-2022)
@@ -91,3 +101,6 @@ Part-time work. Remote testing of Yandex products (Yandex.Drive, Yandex.Maps)
 * Basics of programming (2021)
 * Basics of manual testing (2021)
 * Software testing (2021)
+
+**ENGECON**
+* Management and economics at the motor transport enterprise. (September 2008 - June 2010)
