@@ -4,15 +4,19 @@
 # Aleksei Morozov
 *web developer*
 
+====
+
+## Contacts
 
 [linkedin](https://www.linkedin.com/in/aleksei-morozov-944279239/)  
 [aemorozov.ru](https://aemorozov.ru/)  
 [GitHub](https://github.com/aemorozov/)  
 
 
-Location: **Yerevan, Armenia**
-
+Location: **Yerevan, Armenia**  
 Native Russian, B1 English, Starter Armenian
+
+====
 
 ## Experience
 
@@ -70,6 +74,7 @@ Part-time work. Remote testing of Yandex products (Yandex.Drive, Yandex.Maps)
 * Working with Testpalm;
 * Working with Devtools.
 
+====
 
 ## Education
 **ENGECON**
