@@ -1,5 +1,9 @@
+![Aleksei Morozov foto](https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png)
+
+
 # Aleksei Morozov
 *web developer*
+
 
 [linkedin](https://www.linkedin.com/in/aleksei-morozov-944279239/)
 
@@ -10,7 +14,7 @@
 
 Location: **Yerevan, Armenia**
 
-Native Russian, English B1, Starter Armenian
+Native Russian, B1 English, Starter Armenian
 
 ## Experience
 
