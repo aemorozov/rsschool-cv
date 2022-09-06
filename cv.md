@@ -33,8 +33,8 @@ My main stack:
 
 ## Experience
 
-### OmniCDEK
-**omnicdek.ru**
+### Service Engineer
+**OmniCDEK**
 July 2022 – until now
 
 Yerevan, Armenia
