@@ -1,0 +1,104 @@
+![Aleksei Morozov foto](https://media-exp1.licdn.com/dms/image/C4E03AQEqmV2yyvByrw/profile-displayphoto-shrink_200_200/0/1651083032853?e=1668038400&v=beta&t=QZYYbr-wKs20YAgFcWM3AJCFbyG6edPpe3HVlkNPY28)
+
+
+# Aleksei Morozov
+## web developer
+
+## Contacts
+
+**Phone:** +374 44 07-03-39  
+**E-mail:** leafspb@gmail.com  
+**Telegram:** @aleskejmorozov  
+**Profile:** [linkedin](https://www.linkedin.com/in/aleksei-morozov-944279239/)  
+**Web:** [aemorozov.ru](https://aemorozov.ru/)  
+**GitHub:** [aemorozov](https://github.com/aemorozov/)  
+
+
+**Location:** Yerevan, Armenia  
+Native Russian, B1 English, Starter Armenian
+
+********* 
+
+## About me
+
+I have worked with customers for more than 6 years and have excellent problem solving skills.  
+My main stack:
+* SQL (MySQL, Oracle PL/SQL) - work with table construction, pseudo columns, operators, expressions, conditions, functions, subqueries
+* Linux (Ubuntu) – basic commands: create, delete, transfer, copy, find, zip
+* JavaScript (ES6) - functions, arrays, objects, OOP, TypeScript basics
+* Quality Assurance & Manual Testing - functional and non-functional testing, test cases, checklists, bug reports. Devtools.
+* HTML5 & CSS3 - I can sort out someone else's code, remove or add even complex elements without harm to the layout, make any design adaptive. I can make it from scratch or seriously change any layout according to the customer's wishes.
+
+********* 
+
+## Experience
+
+### Service Engineer
+**OmniCDEK**
+July 2022 – until now
+
+Yerevan, Armenia
+
+* maintenance of the company's postamates
+* diagnosis and identification of problems that have arisen
+* mechanical replacement of equipment
+* Linux-based software repair
+
+### Web Developer
+**Gonkopt.com**
+April 2022 – June 2022
+
+Yekaterinburg, Sverdlovsk, Russia
+
+Remote work
+* Frontend development (HTML, CSS, JavaScript) on gonkopt.com;
+* Bugs fixing on adaptive design (for all screen resolutions);
+* Add new components on template (Telegram button and new footer);
+* Website administration and support (CS-Cart, OpenCart, Landing page);
+* Manual testing;
+* Working with Trello;
+* Analysis and completion user’s requests;
+* amoCRM administration;
+* Integration setup: website <-> mail service <-> amoCRM.
+
+### Software and hardware Engineer
+**Morozov A.E.**
+October 2015 - march 2022
+
+St Petersburg City, Russia
+
+* Live communication with customers;
+* Diagnostics, administration and recovery of Windows, Android, iOS;
+* Using Odin, SP Flash tool, TestDPC, ADB and other software;
+* Mechanical replacement of displays, batteries, connectors;
+* Search for OS security issues and writing manuals for 4pda-forum.
+
+### QA Assessor (manual testing)
+**Yandex**
+June 2020 - July 2020
+
+St Petersburg City, Russia
+
+Part-time work. Remote testing of Yandex products (Yandex.Drive, Yandex.Maps)
+* Manual testing of web, desktop and mobile applications by checklists;
+* Analysis of technical requirements and technical specifications;
+* Preparation of the environment;
+* Compilation of bug reports;
+* Working with Testpalm;
+* Working with Devtools.
+
+********* 
+
+## Education
+
+**GEEK BRAINS online university (GB.ru)**
+* JavaScript (2021-2022)
+* Manual testing (QA). (2021 - 2022)
+* Java. Quick Start. (2021)
+* Database basics (2021)
+* Basics of programming (2021)
+* Basics of manual testing (2021)
+* Software testing (2021)
+
+**ENGECON**
+* Management and economics at the motor transport enterprise. (September 2008 - June 2010)
